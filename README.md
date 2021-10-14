@@ -1,2 +1,2 @@
 # CS400
-This breanch holds my code for our team's graph project.  We created a projected that takes in a list of stops and routes for a bus and puts them into a graph.  This allows the user to find the best ways to navigate Madison.
+This branch holds my code for our team's graph project. I worked as the data wrangler in this project.  We created a projected that takes in a list of stops and routes for a bus and puts them into a graph.  This allows the user to find the best ways to navigate Madison.  I was personally responsible for making a csv of bus stop and bus routes. I was also responsible for creating java files that read these csv files and sent them to the backend.
